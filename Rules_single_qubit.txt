@@ -22,3 +22,9 @@ X*Z2 => Z1
 Y*Z2 => -iZ1
 Z*Z2 => -Z2
 
+H*X1 => Z1 
+H*X2 => Z2
+H*Y1 => X1+iX2
+H*Y2 => X1-iX2
+H*Z1 => X1
+H*Z2 => X2
